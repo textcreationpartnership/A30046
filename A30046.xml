@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reasons humbly offered against the Quakers unreasonable request touching elections of members to serve in Parliament</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30046</idno>
+            <idno type="STC">Wing B5396</idno>
+            <idno type="STC">ESTC R3240</idno>
+            <idno type="EEBO-CITATION">13672618</idno>
+            <idno type="OCLC">ocm 13672618</idno>
+            <idno type="VID">101177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101177)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 838:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reasons humbly offered against the Quakers unreasonable request touching elections of members to serve in Parliament</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Francis Bugg.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections.</term>
+               <term>Society of Friends --  England.</term>
+               <term>Society of Friends --  Political activity.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Church and state --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+               <term>Broadsides --  England --  London --  17th century --  rbgenr.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101177:1"/>
+            <pb facs="tcp:101177:1"/>
+            <head>Some Reaſons Humbly offered againſt the Quakers unreaſonable Requeſt, touching Elections of Members to ſerve in Par<g ref="char:EOLhyphen"/>liament.</head>
+            <p>WHEREAS on <hi>February</hi> the 10th 1707/8, Leave was given to bring in a Bill for the more eaſie Polling the Free-holders of Elections of Knights of the Shire, for the County of <hi>Suſſex</hi> and <hi>Yorkſhire.</hi> And having underſtood that the Quakers make Application to have their bare Declaration ſerve inſtead of a Legal Oath, and that without the Words <hi>[As in the Preſence of Almighty God],</hi> which as it appears great Preſumption in them to expect; So I Humbly beg Leave to offer ſome Reaſons againſt their Requeſt. And</p>
+            <p n="1">I. Becauſe they are ſuch Mortal Enemies to the Chriſtian Religion, denying Jeſus of <hi>Nazareth</hi> to be Chriſt the Son of God; and by Villifying and Contemning the Holy Scriptures, and Reproaching the Chriſtian Miniſters, chiefly, or in the firſt place, becauſe they Preach out of the Bible. All which, and much more I have prov'd out of their Books, in my Book now publiſh'd, Intitled, <hi>Goliah's Head cut off with his own Sword, and the Quakers routed by their own Weapons,</hi> &amp;c. And Sold at the <hi>King's-Head,</hi> the <hi>Crown,</hi> and <hi>Green Dragon</hi> in St. <hi>Paul's Church-Yard;</hi> and at the <hi>Bible</hi> under the Piazza in <hi>Cornhill:</hi> And which I ſtand ready to make good to their Faces, if deſir'd.</p>
+            <p n="2">II. And ſince they can take a Legal Oath to ſerve their private Intereſt, why ſhould they not do it to ſerve the Publick? That many of them have, there are many In<g ref="char:EOLhyphen"/>ſtances in the Courts of Chancery; and in particular <hi>George Whitehead,</hi> againſt whom Mr. <hi>Thomas Daniel</hi> and <hi>Elizabeth</hi> his Wife, Exhibited a Bill in my Lord Mayor's Court; to which <hi>George Whitehead</hi> put in his Anſwer upon Oath, <hi>April</hi> 9. 1695. as may be ſeen by the Records of that Court; out of which I took a Copy of his ſaid Oath, Atteſted by Mr. <hi>Gibſon,</hi> Attorney in that Court. But</p>
+            <p n="3">III. They by Principle are Enemies to the very Conſtitution of Parliaments, de<g ref="char:EOLhyphen"/>claring in their Books publickly, <hi>That a Partiament choſen by moſt Voices, are not like to act for God, or the Good of the People.</hi> Again, <hi>That it was through Ignorance that the People ſubjected themſelves to Hereditary Government, ſtanding in a ſingle Perſon ſucceſſively; and that our Nation have been under the Bonds of Slavery in this Reſpect.</hi> Moreover, <hi>That all Kings</hi> (and conſequently Queens) <hi>ſprung up in the Night, ſince the Days of the Apoſtles, among the Anti-Chriſts: And that ſuch as dote upon Earthly Kings, are Traytors, Apoſtates, Spiritual Egyptians,</hi> &amp;c. Theſe were their ancient Seditious and Anti-Monarchical, as well as Anti-Parliamentary Principles. But were forgiven by the Act of Oblivion: But ſince their Toleration, they have afreſh reaſſerted them; ſaying in Print, <hi>We are not ſenſible that we have alter'd any one Principle of our Faith ſince we were a People; but are the ſame in <hi>every reſpect</hi> that we were</hi> 50 <hi>Years ago; we know not one Article of the Chri<g ref="char:EOLhyphen"/>ſtian Faith in which we are alter'd ſince we were a People. Therefore bluſh not <hi>publickly to declare,</hi> That we are <hi>not chang'd</hi> in our Principles.</hi> And if ſo, I Humbly conceive it ſtands them upon, firſt to retract theſe and the like Principles, before they preſume to ask ſuch Favours, as no Subjects beſides them dare to do.</p>
+            <p n="4">IV. Their Preſumption farther appears, by their Contempt of Authority; For let the Queen's Majeſty put forth Her Royal Proclamation for the ſtrict Obſervation of a General Faſt, or Day of Thankſgiving, for ſome Signal Victory, or other National Bleſſing, under Pain of Her High Diſpleaſure; They take no notice thereof, either in City or Country, but one goes to Plow, others to Cart, others keep open their Shops, in Contempt of Her Royal Authority: How then do they deſerve the Favour of the Government, who will not Obey Her Majeſty in one of Her leaſt, and moſt Chriſtian Commands? But again,</p>
+            <p n="5">V. Whereas the Laws of the Land not only injoin the Miniſters of the Eſtabliſh<g ref="char:EOLhyphen"/>ment, but all Preachers and Teachers of ſeparate Congregations, to Abjure the Pre<g ref="char:EOLhyphen"/>tended Prince of <hi>Wales;</hi> which both Conformiſts and Diſſenting Proteſtants readily Obey. But as for the Quakers, they wholly refuſe Subjection to the Laws in that Caſe made and provided, to the ill Example of Her Majeſties good Subjects. How then can they, without great Preſumption, ask ſuch ſingular Favours of the Govern<g ref="char:EOLhyphen"/>ment, who thus trample under Foot their Authority? But,</p>
+            <pb facs="tcp:101177:2"/>
+            <p n="6">VI. Beſides all this, altho' they are become a conſiderable Body of People, yet they will not perſonally aſſiſt Her Majeſty, and the Kingdom, in this time of War: And that their being thus paſſed by with Impunity, 'tis preſum'd that many turn Quakers on that Account; ſo that for every Man that turns Quaker, the Queen loſes an aſſiſting Subject, whereby the Strength of the Kingdom is thereby weaken'd. And it is far<g ref="char:EOLhyphen"/>ther obſervable, that amongſt the Quakers, there are no Cripples on that account, no Wooden Legs, Broken Arms, or Loſt Limbs: But when there is any Advantage in Trade, procur'd by the War, no People upon the Earth are ſo ready to run and go to reap the Benefit of it; who thereby (like the <hi>Jews</hi>) inrich themſelves. All which duly conſider'd, what great Preſumption is it in them to beg ſuch Favours, (and ſuch ſingular Ones too, as none but themſelves have the Face to ask).</p>
+            <p>Laſtly, But beſides all this, they are ſo uncharitable, as that they account all but themſelves, from the Queen on the Throne, to the Beggar on the Dunghil, ſuch Infi<g ref="char:EOLhyphen"/>dels, that they will neither marry or bury with Us; yea, they account that to be marry'd with a Miniſter, is ſuch an Abomination, that as their own Words are (in one of their Orders by me) <hi>It is a Diſhonour to their Holy Profeſſion:</hi> And that ſuch of them as do, they deny them burial with them. How then can they expect from ſuch as they account Infidels ſuch ſingular Favours, without an unwarrantable Preſumption? But for them to Requeſt, as I am told they do, to have the Words <hi>[As in the Preſence of Almighty God]</hi> left out, is ſuch an unparallel'd piece of Preſumption, that none but a Quaker can be guilty of, eſpecially conſidering that the moſt noted among them, <hi>George Whitehead</hi> for one, ſtands charg'd with declaring for Truth, that which he knew to be Falſe, and that in a plain Matter of Fact, and that in more Inſtances than one.</p>
+            <p>To conclude theſe brief Remarks; I grant, that in their late Prints, they ſome<g ref="char:EOLhyphen"/>times will ſeem thankful to the Government for their Exemptions from thoſe Obliga<g ref="char:EOLhyphen"/>tions, that all Chriſtians, both Conformiſts and Non-Conformiſts, are oblig'd to, un<g ref="char:EOLhyphen"/>der certain Penalties. But to their Friends, in order to keep up their Pretences to Infallibility, and Prophetical Inſpirations, they attribute theſe their Advances to the fulfilling of their own Prophecies, as I have ſhew'd in my Book above-noted. For when their Solemn Affirmations was firſt granted them, to be taken inſtead of a For<g ref="char:EOLhyphen"/>mal Oath, and which was obtain'd by the frequent Solicitations, and other ſecret Me<g ref="char:EOLhyphen"/>thods of their Grandees. Yet this their Solemn Affirmation was by many of their Brethren, and ſtill is (of which I am an Ear-witneſs) accounted as bad as a Legal Oath, and that becauſe of theſe Words, <hi>viz. As in the Preſence of Almighty God.</hi> And thereupon complain'd, That their Friends <hi>George Whitehead,</hi> &amp;c. had ſubjected their Teſtimony to Man's Will, contrary to their ancient Teſtimony: Upon which <hi>George Whitehead,</hi> &amp;c. wrote an Epiſtle to ſatisfie their Scruples, (one of which I have by me) in which are theſe Words, <hi>viz. Let all now be thankful, that the Lord hath ſo tender'd the Hearts of many in Authority, as to <hi>ſubject their Wills</hi> ſo far to Friends Intreaties.— Let none therefore count, or call this <hi>a ſubjecting</hi> our Teſtimony to the Will of Man, ſeeing God hath ſo far <hi>ſubjected Man's Will</hi> to our Chriſtian Deſire.</hi> And it is farther ob<g ref="char:EOLhyphen"/>ſervable from this Epiſtle, in which they labour'd to ſatisfie their Friends Scruples, touching their ſaid Affirmation, that they quote not one Verſe of Scripture, but the Books of <hi>Fox, Penn,</hi> and ten more of their Apoſtles; which is a Demonſtration that it is as <hi>George Whitehead</hi> teaches in his Book, <hi>Truth Defending,</hi> &amp;c. p. 7. <hi>That what is ſpoken by the Spirit of Truth in any,</hi> (meaning themſelves) <hi>is of greater Authority than the Scriptures,</hi> viz. That they account their own Books of greater Authority than the Holy Bible. And ſince they have in Print deny'd our whole Religion, and declare they differ in the Foundation from all Chriſtians in the World; it is Humbly hop'd, that they ſhall not therefore be Privileg'd with Favour's above all the Queen's Subjects. Sign'd on the behalf of all Chriſtian Churches, by</p>
+            <closer>
+               <signed>FRANCIS B<g ref="char:V">Ʋ</g>GG.</signed>
+            </closer>
+         </div>
+         <div type="docket_title">
+            <p>SOME REASONS Humbly Offer'd againſt the <hi>Quakers Requeſt,</hi> Touching ELECTIONS.</p>
+            <pb facs="tcp:101177:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
